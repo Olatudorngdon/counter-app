@@ -1,0 +1,37 @@
+.page {
+
+
+
+
+  .counterApp {
+    background-color: chartreuse;
+    font-family: 'montserrat', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  }
+
+
+  .counterContainer {
+    background-color: rgb(224, 254, 254);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius:  0 0 50px 50px;
+ 
+  }
+
+
+  .counterCaption {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .counterNum {
+    font-family: 'montserrat', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+   font-size: 80px;
+  }
+}

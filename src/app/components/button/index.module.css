@@ -1,0 +1,15 @@
+.buttonWrapper {
+    padding: 20px;
+    background-color: #e80505;
+    color: yellow;
+    font-family: 'montserrat', sans-serif;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 20px auto; /* Centers the button horizontally */
+    display: block; /* Ensures the button behaves as a block element */
+    font-size: 20px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+    border: none;
+    text-align: center; /* Optional for centering text inside the button */
+}
