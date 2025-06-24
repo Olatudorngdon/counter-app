@@ -1,10 +1,11 @@
-const Welcome = () => {
-    return (  
-        <div className="welcome-container">
-            <h1 className="welcome-title">Hello World</h1>
-            <p className="welcome-subtitle">This is my first react page</p>
-            </div>
-    );
+import styles from './post.module.css';
+
+export default function PostCard() {
+return (
+    <div className={styles.postCard}>
+    <div></div>
+    </div>
+)
+
+
 }
- 
-export default Welcome;

@@ -1,0 +1,18 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-height: 100px;
+    width: 200px;
+    border: 2px solid #0f03f4;
+    border-radius: 5px;
+   padding: 10px;
+   display: inline;
+   cursor: pointer;
+  .headTitle {
+    font-weight: bolder;
+    color: rgb(3, 217, 67);
+ }
+
+
+}
